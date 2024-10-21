@@ -1,2 +1,2 @@
 # Uripurup-Anima
-Slice of wholesome 2D animation project
+Slice of wholesome 2D anima (animation) project
