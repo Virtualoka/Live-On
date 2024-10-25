@@ -1,8 +1,12 @@
 # Uripurup
 ![Uripurup](https://github.com/Virtualoka/assets/blob/bcfcd945dfcfdf891766a762c492997949603341/Logo/Uripurup%20title.png)
-Uriurup is FREE and open anima project from Indonesia, created by [White Heart](https://github.com/micheliaHEART) and published by [Virtualoka](https://github.com/Virtualoka).
+Uripurup is FREE and open anima project from Indonesia, created by [White Heart](https://github.com/micheliaHEART) and published by [Virtualoka](https://github.com/Virtualoka).
 
 All graphics assets, illustrations, designs and animations are released under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Unlike traditional animation projects, this free and open anima project allows for study, sharing, and reproduction, even for commercial purposes, as long as you give appropriate credit to Virtualoka.
+
+Support this project  
+[Ko-fi](https://https://ko-fi.com/Virtualoka)  
+[Trakteer](https://https://trakteer.id/White) 🇮🇩
 
 # Pia
 ![Uripurup](https://github.com/Virtualoka/assets/blob/4a062dbbb104067be7b76048f1eb3afd2f50a998/Char/!%20Pia/Pi%20256.png)
