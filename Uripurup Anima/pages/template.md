@@ -1,12 +1,13 @@
-#
+# 
 template:: Character
 	- ## Personal
 	  Name                          : 
+	  Nickname                      : 
 	  Name (Indonesia)              : 
 	  Name (Java)                   : 
 	  Name (Japanese)               : 
 	  Ethicnitiy                    : 
-	  Religion                      : Islam
+	  Religion                      : #Islam
 	  Hobbies                       : 
 	  Goals & Dreams                :
 	- ## Family
@@ -25,4 +26,3 @@ template:: Character
 	  ■■■■■□□□□□ Strength 5    ■■■■■□□□□□ Intelligence 5  
 	  ■■■■■□□□□□ Good     5    ■■■■■□□□□□ Bad          5  
 	  ■■■■■□□□□□ Charisma 5    ■■■■■□□□□□ Wealth       5
--

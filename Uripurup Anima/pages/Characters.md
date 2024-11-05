@@ -1,1 +1,3 @@
 - {{embed [[Pia]]}}
+- {{embed [[Aiu]]}}
+- {{embed [[Fira]]}}
