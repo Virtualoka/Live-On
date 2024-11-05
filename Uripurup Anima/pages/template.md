@@ -1,8 +1,23 @@
-###
+#
 template:: Character
-	- Name:
-	- Name (Indonesia):
-	- Name (Java):
-	- Name (Japanese):
-	- Height: cm
-	- tes
+	- ## Personal
+	  Name                          : 
+	  Name (Indonesia)              : 
+	  Name (Java)                   : 
+	  Name (Japanese)               : 
+	  Ethicnitiy                    : 
+	  Religion                      : Islam
+	  Hobbies                       : 
+	  Goals & Dreams                :
+	- ## Family
+	  Parents                       : 
+	  Siblings                      :
+	- ## Physical Characteristcs
+	  Gender                        : 
+	  Height                        : cm
+	  Hair Color                    : 
+	  Eye Color                     :
+	- ## Status
+	  Occupation                    : 
+	  School                        : 
+	  Class                         :
