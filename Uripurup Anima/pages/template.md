@@ -1,6 +1,5 @@
 #
 template:: Character
-	-
 	- ## Personal
 	  Name                          : 
 	  Name (Indonesia)              : 
@@ -26,3 +25,4 @@ template:: Character
 	  ■■■■■□□□□□ Strength 5    ■■■■■□□□□□ Intelligence 5  
 	  ■■■■■□□□□□ Good     5    ■■■■■□□□□□ Bad          5  
 	  ■■■■■□□□□□ Charisma 5    ■■■■■□□□□□ Wealth       5
+-
