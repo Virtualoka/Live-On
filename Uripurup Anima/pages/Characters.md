@@ -1,3 +1,5 @@
 - {{embed [[Pia]]}}
+- {{embed [[El]]}}
 - {{embed [[Aiu]]}}
+- {{embed [[Jelly]]}}
 - {{embed [[Fira]]}}

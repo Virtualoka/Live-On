@@ -16,7 +16,7 @@
 		- Siblings:
 			- [[EL]] (Brother)
 			- [[Pia]] (Little Sister)
-			- [[Jeli]] (Little Sister)
+			- [[Jelly]] (Little Sister)
 	- ## Physical Characteristcs
 	  Gender                        : #Female 
 	  Height                        : 152.5 cm

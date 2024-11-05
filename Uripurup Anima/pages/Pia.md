@@ -17,7 +17,7 @@
 		- Siblings:
 			- [[EL]] (Brother)
 			- [[Aiu]] (Sister)
-			- [[Jeli]] (Little Sister)
+			- [[Jelly]] (Little Sister)
 	- ## Physical Characteristcs
 	  Gender                        : #Female  
 	  Height                        : 148 cm  
