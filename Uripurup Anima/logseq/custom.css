@@ -1,5 +1,3 @@
 :root {
-  --ls-font-family: "Fira Code";
-  --ct-page-title-font-family: var(--ls-font-family);
-  --ct-code-font-family: "Fira Code";
+  --ls-font-family: "Courier Prime Sans";
 }
