@@ -1,5 +1,5 @@
-#
-	- ## Personal
+## Profile
+	- ### Personal
 	  Name                          : Lily Jelly
 	  Nickname                      : J
 	  Name (Indonesia)              : Lalita Jelita (Jeli)
@@ -9,7 +9,7 @@
 	  Religion                      : #Islam
 	  Hobbies                       : Playing, thinking
 	  Goals & Dreams                : Don't have
-	- ## Family
+	- ### Family
 	- Parents:
 		- [[Iro]] (Father)
 		- [[Itra]] (Mother)
@@ -17,16 +17,16 @@
 		- [[EL]] (Brother)
 		- [[Aiu]] (Sister)
 		- [[Pia]] (Sister)
-	- ## Physical Characteristcs
+	- ### Physical Characteristcs
 	  Gender                        : #Female 
 	  Height                        : 60.5 cm, 121 cm (real mode)
 	  Hair Color                    : 
 	  Eye Color                     :
-	- ## Status
+	- ### Status
 	  Occupation                    : #Student
 	  School                        : [[Virtualoka Elementary School Derana]]
 	  Class                         : #IV-L
-	- ## Stats
+	- ### Stats
 	  ■■□□□□□□□□ Strength 2    ■■■■■■■■■■ Intelligence 10  
 	  ■■■□□□□□□□ Good     3    ■□□□□□□□□□ Bad           1  
 	  ■■■■□□□□□□ Charisma 4    ■■■■■■■□□□ Wealth        7

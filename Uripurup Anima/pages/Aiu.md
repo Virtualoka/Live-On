@@ -1,5 +1,5 @@
-#
-	- ## Personal
+## Profile
+	- ### Personal
 	  Name                          : Aiu
 	  Nickname                      : Aiu 
 	  Name (Indonesia)              : Ayu
@@ -9,7 +9,7 @@
 	  Religion                      : #Islam
 	  Hobbies                       : School, Study, Pencak Silat
 	  Goals & Dreams                : Marry with good husband and be a amazing wife and mother
-	- ## Family
+	- ### Family
 		- Parents:
 			- [[Iro]] (Father)
 			- [[Itra]] (Mother)
@@ -17,16 +17,16 @@
 			- [[EL]] (Brother)
 			- [[Pia]] (Little Sister)
 			- [[Jelly]] (Little Sister)
-	- ## Physical Characteristcs
+	- ### Physical Characteristcs
 	  Gender                        : #Female 
 	  Height                        : 152.5 cm
 	  Hair Color                    : Brown
 	  Eye Color                     :
-	- ## Status
+	- ### Status
 	  Occupation                    : #Student
 	  School                        : [[Gitarja Senior High School Derana]] 
 	  Class                         : #X-A
-	- ## Stats
+	- ### Stats
 	  ■■■■■■■■□□ Strength 8    ■■■■■■□□□□ Intelligence 6  
 	  ■■■■■■■■□□ Good     8    ■■■□□□□□□□ Bad          3  
 	  ■■■■■■■■□□ Charisma 8    ■■■■■■■□□□ Wealth       7

@@ -1,6 +1,6 @@
-# 
-template:: Character
-	- ## Personal
+## Profile
+template:: Character Profile
+	- ### Personal
 	  Name                          : 
 	  Nickname                      : 
 	  Name (Indonesia)              : 
@@ -10,19 +10,19 @@ template:: Character
 	  Religion                      : #Islam
 	  Hobbies                       : 
 	  Goals & Dreams                :
-	- ## Family
+	- ### Family
 	  Parents                       : 
 	  Siblings                      :
-	- ## Physical Characteristcs
+	- ### Physical Characteristcs
 	  Gender                        : 
 	  Height                        : cm
 	  Hair Color                    : 
 	  Eye Color                     :
-	- ## Status
+	- ### Status
 	  Occupation                    : 
 	  School                        : 
 	  Class                         :
-	- ## Stats
+	- ### Stats
 	  ■■■■■□□□□□ Strength 5    ■■■■■□□□□□ Intelligence 5  
 	  ■■■■■□□□□□ Good     5    ■■■■■□□□□□ Bad          5  
 	  ■■■■■□□□□□ Charisma 5    ■■■■■□□□□□ Wealth       5
