@@ -12,7 +12,7 @@ id:: 672a2c66-c4a7-4aa1-a8af-848958774980
 	  Religion                      : [[Islam]]
 	  Hobbies                       : School, Study, Pencak Silat
 	  Goals & Dreams                : Marry with good husband and be an amazing wife and mother
-	- ### Family
+	- ### Relative(s)
 	  Father                        : [[Iro]](Deceased)
 	  Mother                        : [[Itra]](Deceased)
 	  Siblings:

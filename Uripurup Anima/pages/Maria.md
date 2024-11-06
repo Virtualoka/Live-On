@@ -12,7 +12,7 @@ id:: 672b1e58-7129-486d-b736-6645d8a1978c
 	  Religion                      : [[Islam]]
 	  Hobbies                       : Drawing, ~Running~, ~Badminton~, Athletic Sport
 	  Goals & Dreams                : Making millions of children smile with her illustrated story books.
-	- ### Family
+	- ### Relative(s)
 	  Father                        : [[Maria's Father]] (Deceased)
 	  Mother                        : (Deceased)
 	  Adoptive Father               : [[Maria's Adoptive Father]]
@@ -25,7 +25,7 @@ id:: 672b1e58-7129-486d-b736-6645d8a1978c
 	  Eye Color                     : Orange Brown
 	- ### Status
 	  Occupation                    : [[Student]] 
-	  School                        : [[Junior High School 62 Derana]] 
+	  School                        : [[62 Junior High School Derana]] 
 	  Class                         : [[VII-B]]
 	- ### Stats
 	  ■■□□□□□□□□ Strength 2         ■■■■■■□□□□ Intelligence 6

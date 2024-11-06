@@ -1,4 +1,4 @@
-## Eleonora Liora  #Eli #[[Circle ❤️ Aiu]]  #[[Secondary Characters]]
+## Eleonora Liora #Eli  #[[Circle ❤️ Aiu]]  #[[Secondary Characters]]
 id:: 672b236f-e0ca-45ba-a820-33bad96592a3
 	- ![eli 256.png](../assets/eli_256_1730881409480_0.png) /
 	- [Short Description]
@@ -12,7 +12,7 @@ id:: 672b236f-e0ca-45ba-a820-33bad96592a3
 	  Religion                      : [[Atheis]] 
 	  Hobbies                       : 
 	  Goals & Dreams                :
-	- ### Family
+	- ### Relative(s)
 	  Father                        : 
 	  Mother                        : 
 	  Siblings                      : Only Child

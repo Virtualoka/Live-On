@@ -11,7 +11,7 @@ id:: 672ac137-b539-4dd9-a940-d3ab02e2bbde
 	  Ethicnitiy                    : [[Sumatran]] 
 	  Hobbies                       : 
 	  Goals & Dreams                :
-	- ### Family
+	- ### Relative(s)
 	  Father                        : 
 	  Mother                        : 
 	  Siblings                      :

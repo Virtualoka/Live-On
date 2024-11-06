@@ -12,7 +12,7 @@ id:: 672b18bf-eb8b-4177-bdc7-6566b3b36f21
 	  Religion                      : [[Islam]]
 	  Hobbies                       : Traveling, Photography
 	  Goals & Dreams                :
-	- ### Family
+	- ### Relative(s)
 	  Father                        : 
 	  Mother                        : 
 	  Siblings                      : Only child
@@ -23,7 +23,7 @@ id:: 672b18bf-eb8b-4177-bdc7-6566b3b36f21
 	  Eye Color                     : Black
 	- ### Status
 	  Occupation                    : [[Student]] 
-	  School                        : [[Junior High School 62 Derana]] 
+	  School                        : [[62 Junior High School Derana]] 
 	  Class                         : [[VII-B]]
 	- ### Stats
 	  ■■■■■■■■□□ Strength 8         ■■■■■□□□□□ Intelligence 5

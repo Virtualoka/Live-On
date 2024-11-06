@@ -12,9 +12,9 @@ id:: 672b2373-b214-439f-a83a-c4cd80eab85f
 	  Religion                      : [[Islam]]
 	  Hobbies                       : 
 	  Goals & Dreams                :
-	- ### Family
+	- ### Relative(s)
 	  Father                        : 
-	  Mother                        : 
+	  Mother                        : [[Anin's Mother]]
 	  Siblings                      : Only Child
 	- ### Physical Characteristcs
 	  Gender                        : [[Female]] 

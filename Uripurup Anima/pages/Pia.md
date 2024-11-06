@@ -11,7 +11,7 @@ id:: 672a0838-f979-4e01-9f61-255e97aa32ff
 	  Religion                      : [[Islam]]
 	  Hobbies                       : Farming [[El]]'s attention
 	  Goals & Dreams                : Conquer the World
-	- ### Family
+	- ### Relative(s)
 	  Father                        : [[Iro]](Deceased)
 	  Mother                        : [[Itra]](Deceased)
 	  Siblings:
@@ -25,7 +25,7 @@ id:: 672a0838-f979-4e01-9f61-255e97aa32ff
 	  Eye Color                     : Purple
 	- ### Status
 	  Occupation                    : Professional Little Sister, [[Student]]
-	  School                        : [[Junior High School 62 Derana]]
+	  School                        : [[62 Junior High School Derana]]
 	  Class                         : [[VII-B]]
 	- ### Stats
 	  ■■■■■■□□□□ Strength 6         ■■■■■■■■■□ Intelligence 9

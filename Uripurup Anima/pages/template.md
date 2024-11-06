@@ -12,7 +12,7 @@ template:: Character Profile
 	  Religion                      : [[Islam]]
 	  Hobbies                       : 
 	  Goals & Dreams                :
-	- ### Family
+	- ### Relative(s)
 	  Father                        : 
 	  Mother                        : 
 	  Siblings                      :

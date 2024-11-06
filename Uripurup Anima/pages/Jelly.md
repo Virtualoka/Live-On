@@ -12,7 +12,7 @@ id:: 672a3028-4482-4212-9a95-03c234da7e30
 	  Religion                      : [[Islam]]
 	  Hobbies                       : Playing, Thinking
 	  Goals & Dreams                : Don't Have
-	- ### Family
+	- ### Relative(s)
 	  Father                        : [[Iro]](Deceased)
 	  Mother                        : [[Itra]](Deceased)
 	  Siblings:

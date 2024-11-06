@@ -12,7 +12,7 @@ id:: 672b15ed-8c2c-4ac7-bf33-45d5746f2476
 	  Religion                      : [[Islam]]
 	  Hobbies                       : 
 	  Goals & Dreams                :
-	- ### Family
+	- ### Relative(s)
 	  Father                        : 
 	  Mother                        : 
 	  Siblings                      :

@@ -12,7 +12,7 @@ id:: 672a3227-3cad-43f4-b1bf-7b483ebda769
 	  Religion                      : [[Islam]]
 	  Hobbies                       : Taking care his little sisters, gardening
 	  Goals & Dreams                : Seeing his three little sisters succeed
-	- ### Family
+	- ### Relative(s)
 	  Father                        : [[Iro]](Deceased)
 	  Mother                        : [[Itra]](Deceased)
 	  Siblings:

@@ -12,7 +12,7 @@ id:: 672a2627-1fd0-4045-a7cd-d296a055334e
 	  Religion                      : [[Islam]] 
 	  Hobbies                       : 
 	  Goals & Dreams                :
-	- ### Family
+	- ### Relative(s)
 	  Father                        : 
 	  Mother                        : 
 	  Siblings                      : Fira's Brother (no name yet) - Older brother from the same mother
@@ -23,7 +23,7 @@ id:: 672a2627-1fd0-4045-a7cd-d296a055334e
 	  Eye Color                     : Heterochromia light blue and light pink
 	- ### Status
 	  Occupation                    : [[Student]]
-	  School                        : [[Junior High School 62 Derana]] 
+	  School                        : [[62 Junior High School Derana]] 
 	  Class                         : [[VII-B]]
 	- ### Stats
 	  ■■■■■□□□□□ Strength 5         ■■■■■■■□□□ Intelligence 7  
