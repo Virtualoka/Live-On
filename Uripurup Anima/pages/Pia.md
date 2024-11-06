@@ -1,7 +1,7 @@
 ## Profile
-id:: 672a0838-f979-4e01-9f61-255e97aa32ff
+id:: 672a0838-f979-4e01-9f61-255e97aa32ff  
 ![Pia 256.png](../assets/Pia_256_1730859362764_0.png)
-	- ### Personal
+	- ### Personal  
 	  Name (English & Indonesia)    : Maharaina Oktavia Rawiya Izvari  
 	  Nickname                      : Pia  
 	  Name (Java)                   : ꦩꦲꦫꦻꦤꦎꦏ꧀ꦠꦮ꦳ꦶꦪꦫꦮꦶꦪꦆꦗ꦳꧀ꦮ꦳ꦫꦶ  
@@ -18,16 +18,16 @@ id:: 672a0838-f979-4e01-9f61-255e97aa32ff
 			- [[EL]] (Brother)
 			- [[Aiu]] (Sister)
 			- [[Jelly]] (Little Sister)
-	- ### Physical Characteristcs
+	- ### Physical Characteristcs  
 	  Gender                        : #Female  
 	  Height                        : 148 cm  
 	  Hair Color                    : Golden yellow  
 	  Eye Color                     : Purple
-	- ### Status
+	- ### Status  
 	  Occupation                    : Professional Little Sister, #Student  
 	  School                        : [[Junior High School 62 Derana]] 
 	  Class                         : #VII-B
-	- ### Stats
+	- ### Stats  
 	  ■■■■■■□□□□ Strength 6     ■■■■■■■■■□ Intelligence 9  
 	  ■■■■■□□□□□ Good     5     ■■■■■■■■□□ Bad          8  
 	  ■■■■■■■■■■ Charisma 10    ■■■■■■■□□□ Wealth       7
