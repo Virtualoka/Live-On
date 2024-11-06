@@ -1,4 +1,4 @@
-## Pia Izvari #Pia #[[Main Characters]] #[[Circle 🌻 Pia]] #[[El Family]]
+## Pia Izvari #Pia  #[[El Family]]  #[[Circle 🌻 Pia]]  #[[Main Characters]]
 id:: 672a0838-f979-4e01-9f61-255e97aa32ff
 	- ![Pia 256.png](../assets/Pia_256_1730859362764_0.png)
 	- She may look stupid and always act crazy, but it's actually just a mask she deliberately wears. Pia is insanely smart girl. She can smile to make others happy or suffer.
@@ -12,8 +12,8 @@ id:: 672a0838-f979-4e01-9f61-255e97aa32ff
 	  Hobbies                       : Farming [[El]]'s attention
 	  Goals & Dreams                : Conquer the World
 	- ### Family
-	  Father                        : [[Iro]]
-	  Mother                        : [[Itra]]
+	  Father                        : [[Iro]](Deceased)
+	  Mother                        : [[Itra]](Deceased)
 	  Siblings:
 	  [[EL]] (Brother)
 	  [[Aiu]] (Sister)

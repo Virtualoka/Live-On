@@ -1,4 +1,4 @@
-## Aiu #Aiu #[[Main Characters]] #[[Circle Aiu]] #[[El Family]]
+## Aiu #Aiu  #[[El Family]]  #[[Circle ❤️ Aiu]]  #[[Main Characters]]
 id:: 672a2c66-c4a7-4aa1-a8af-848958774980
 	- ![ayu y 256.png](../assets/ayu_y_256_1730863419607_0.png){:height 264, :width 256}
 	- Pencak Silat World Champion while still in junior high school.
@@ -13,8 +13,8 @@ id:: 672a2c66-c4a7-4aa1-a8af-848958774980
 	  Hobbies                       : School, Study, Pencak Silat
 	  Goals & Dreams                : Marry with good husband and be an amazing wife and mother
 	- ### Family
-	  Father                        : [[Iro]]
-	  Mother                        : [[Itra]]
+	  Father                        : [[Iro]](Deceased)
+	  Mother                        : [[Itra]](Deceased)
 	  Siblings:
 	  [[EL]] (Brother)
 	  [[Pia]] (Little Sister)

@@ -1,4 +1,4 @@
-## El #El #[[Main Characters]] #[[Circle El]] #[[El Family]]
+## Eriel Gray #El  #[[El Family]]  #[[Circle 🍭 El]]  #[[Main Characters]]
 id:: 672a3227-3cad-43f4-b1bf-7b483ebda769
 	- ![El y 256.png](../assets/El_y_256_1730862394099_0.png)
 	- Just graduated from high school, Unemployed not because he couldn't get a job, but by choice. El is the oldest brother, the only man in the El Family
@@ -13,8 +13,8 @@ id:: 672a3227-3cad-43f4-b1bf-7b483ebda769
 	  Hobbies                       : Taking care his little sisters, gardening
 	  Goals & Dreams                : Seeing his three little sisters succeed
 	- ### Family
-	  Father                        : [[Iro]]
-	  Mother                        : [[Itra]]
+	  Father                        : [[Iro]](Deceased)
+	  Mother                        : [[Itra]](Deceased)
 	  Siblings:
 	  [[Aiu]] (Little Sister)
 	  [[Pia]] (Little Sister)
@@ -22,7 +22,7 @@ id:: 672a3227-3cad-43f4-b1bf-7b483ebda769
 	- ### Physical Characteristcs
 	  Gender                        : [[Male]] 
 	  Height                        : 166 cm
-	  Hair Color                    : bluish black
+	  Hair Color                    : Bluish Black
 	  Eye Color                     :
 	- ### Status
 	  Occupation                    : [[Unemployed]]

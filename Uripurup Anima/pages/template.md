@@ -1,4 +1,4 @@
-## [Name] [hastag]
+## [Name] [Hashtag]
 template:: Character Profile
 	- [Character Image]
 	- [Short Description]
@@ -15,7 +15,7 @@ template:: Character Profile
 	- ### Family
 	  Father                        : 
 	  Mother                        : 
-	  Siblings:
+	  Siblings                      :
 	- ### Physical Characteristcs
 	  Gender                        : 
 	  Height                        : cm

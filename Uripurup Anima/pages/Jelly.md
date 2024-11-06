@@ -1,4 +1,4 @@
-## Lilly Jelly #Jelly #[[Main Characters]] #[[Circle Jelly]] #[[El Family]]
+## Lilly Jelly #Jelly  #[[El Family]]  #[[Circle 🍮 Jelly]]  #[[Main Characters]]
 id:: 672a3028-4482-4212-9a95-03c234da7e30
 	- ![Jeli y 256.png](../assets/Jeli_y_256_1730864191774_0.png)
 	- Jelly is quite girl, she rarely talk
@@ -13,8 +13,8 @@ id:: 672a3028-4482-4212-9a95-03c234da7e30
 	  Hobbies                       : Playing, thinking
 	  Goals & Dreams                : Don't have
 	- ### Family
-	  Father                        : [[Iro]]
-	  Mother                        : [[Itra]]
+	  Father                        : [[Iro]](Deceased)
+	  Mother                        : [[Itra]](Deceased)
 	  Siblings:
 	  [[EL]] (Brother)
 	  [[Aiu]] (Sister)
@@ -30,5 +30,5 @@ id:: 672a3028-4482-4212-9a95-03c234da7e30
 	  Class                         : [[IV-L]]
 	- ### Stats
 	  ■■□□□□□□□□ Strength 2         ■■■■■■■■■■ Intelligence 10
-	  ■■■□□□□□□□ Good     3         ■□□□□□□□□□ Bad           1
-	  ■■■■□□□□□□ Charisma 4         ■■■■■■■□□□ Wealth        7
+	  ■■■□□□□□□□ Good     3         ■□□□□□□□□□ Bad          1
+	  ■■■■□□□□□□ Charisma 4         ■■■■■■■□□□ Wealth       7
