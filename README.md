@@ -21,7 +21,7 @@ Height: 148 cm
 
 She may look stupid and always act crazy, but it's actually just a mask she deliberately wears. Pia is a insanely smart girl. She can smile to make others happy or suffer.
 
-# Maria
+# Maria | Gemar
 
 ![Uripurup](https://github.com/Virtualoka/assets/blob/4a062dbbb104067be7b76048f1eb3afd2f50a998/Char/!Gemar/gemar%20256.png)
 
@@ -36,7 +36,8 @@ Name (Japanese): マリア (Maria)
 Height: 139 cm
 
 Maria is a rich girl. Her mother died when she gave birth to her. Maria's father often chose to sacrifice his job to be with his daughter, he raised Maria his only child with all his heart. She grew up to be a smart and healthy girl. When Maria was in elementary school she often won sports competitions, behind her small body Maria was a strong, brave girl. Even without the love of a mother, Maria  lived happily with her father with abundant wealth and luxury. The world seemed beautiful until on the day of Maria's elementary school graduation, Gemar and her father had a car accident. her father died, while Maria had to sit in a wheelchair shattering all the memories of her as a strong girl.
-# Tristan
+
+# Tristan | Sari
 
 ![Uripurup](https://github.com/Virtualoka/assets/blob/4a062dbbb104067be7b76048f1eb3afd2f50a998/Char/!Sari/sari%20256.png)
 
@@ -52,7 +53,7 @@ Height: 165 cm
 
 One night when she was in 6th grade, Tristan walked through the rice fields in the dark of midnight. She was shocked when the pitch-black place suddenly became full of light. A shining meteor dazzled her view, its light getting brighter and closer. A meteor fell near her. It was unclear what happened, all she remembered was a very bright white light and suddenly she was now floating in the sky. From the high sky, she could see the rice fields that she had been walking through. Since the meteor fell, Tristan has been able to fly at very high speed. She often travels around the world, moving from country to country in a few minutes. Serraphine also began to like photography and immortalize her travels around the world.
 
-# Fira
+# Fira | Ginar
 
 ![Uripurup](https://github.com/Virtualoka/assets/blob/4a062dbbb104067be7b76048f1eb3afd2f50a998/Char/!Ginar/ginar%20256.png)
 
