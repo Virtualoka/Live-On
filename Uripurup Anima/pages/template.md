@@ -1,31 +1,48 @@
-## [Name] [Hashtag]
 template:: Character Profile
-	- [Character Image]
-	- [Short Description]
-	- ### Personal
-	  English Name                  : 
-	  Nickname                      : 
-	  Indonesian                    : 
-	  Javanese                      : 
-	  Japanese Name                 : 
-	  Ethicnitiy                    : 
-	  Religion                      : [[Islam]]
-	  Hobbies                       : 
-	  Goals & Dreams                :
-	- ### Relative(s)
-	  Father                        : 
-	  Mother                        : 
-	  Siblings                      :
-	- ### Physical Characteristcs
-	  Gender                        : 
-	  Height                        : cm
-	  Hair Color                    : 
-	  Eye Color                     :
-	- ### Status
-	  Occupation                    : 
-	  School                        : 
-	  Class                         :
-	- ### Stats
-	  ■■■■■□□□□□ Strength 5         ■■■■■□□□□□ Intelligence 5
-	  ■■■■■□□□□□ Good     5         ■■■■■□□□□□ Bad          5
-	  ■■■■■□□□□□ Charisma 5         ■■■■■□□□□□ Wealth       5
+template-including-parent:: false
+
+	- ## Name #Hashtag  #Hashtag  #Hashtag
+		- [Character Image]
+		- asd
+		- ### Personal
+		  English Name                  : 
+		  Nickname                      : 
+		  Indonesian                    : 
+		  Javanese                      : 
+		  Japanese Name                 : 
+		  Ethicnitiy                    : 
+		  Religion                      : [[Islam]]
+		  Hobbies                       : 
+		  Goals & Dreams                :
+		- ### Relative(s)
+		  Father                        : 
+		  Mother                        : 
+		  Sibling(s)                    :
+		- ### Physical Characteristcs
+		  Gender                        : 
+		  Height                        : cm
+		  Hair Color                    : 
+		  Eye Color                     :
+		- ### Status
+		  Occupation                    : 
+		  School                        : 
+		  Class                         :
+		- ### Stats
+		  ■■■■■□□□□□ Strength 5         ■■■■■□□□□□ Intelligence 5
+		  ■■■■■□□□□□ Good     5         ■■■■■□□□□□ Bad          5
+		  ■■■■■□□□□□ Charisma 5         ■■■■■□□□□□ Wealth       5
+	- # Appearance
+		- asd
+	- # Personality
+		- asd
+	- # Trivia
+		- asd
+- ## Temporary Template
+  template:: Character Profile Update
+  template-including-parent:: false
+	- # Appearance
+		- asd
+	- # Personality
+		- asd
+	- # Trivia
+		- asd

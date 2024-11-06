@@ -14,10 +14,10 @@ id:: 672a0838-f979-4e01-9f61-255e97aa32ff
 	- ### Relative(s)
 	  Father                        : [[Iro]](Deceased)
 	  Mother                        : [[Itra]](Deceased)
-	  Siblings:
-	  [[EL]] (Brother)
-	  [[Aiu]] (Sister)
-	  [[Jelly]] (Little Sister)
+	  Sibling(s):
+		- [[EL]] (Brother)
+		- [[Aiu]] (Sister)
+		- [[Jelly]] (Little Sister)
 	- ### Physical Characteristcs
 	  Gender                        : [[Female]]
 	  Height                        : 148 cm
@@ -31,3 +31,8 @@ id:: 672a0838-f979-4e01-9f61-255e97aa32ff
 	  ■■■■■■□□□□ Strength 6         ■■■■■■■■■□ Intelligence 9
 	  ■■■■■□□□□□ Good     5         ■■■■■■■■□□ Bad          8
 	  ■■■■■■■■■■ Charisma 10        ■■■■■■■□□□ Wealth       7
+- # Appearance
+	-
+- # Personality
+	-
+- # Trivia
