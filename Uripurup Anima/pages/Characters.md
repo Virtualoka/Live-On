@@ -1,32 +1,35 @@
 ## [[Main Characters]]: [[Pia]] [[El]] [[Aiu]] [[Jelly]]
 - ## [[Secondary Characters]]
-	- [[Circle Pia]]
+	- [[Circle 🌻 Pia]]
 		- ### [[Fira]] [[Tristan]] [[Maria]] [[Luna]]
 	- [[Circle Aiu]]
 		- ### [[Iva]] [[Eli]] [[Senna]]
 	- [[Circle Jelly]]
 		- ### [[Anin]] [[Rainhart]]
-	- [[Weiss Kriss's Family]]
+	- [[Weiss Kriss Family]]
 		- [[Kriss]] [[Iris Edelweiss]] [[Jack]] [[Apple (WK's Servant)]] [[IA II]] [[Kriss's Father]] [[Kriss's Mother]]
-	- [[El's Family]]
+	- [[El Family]]
 		- [[Iro]] [[Itra]]
-	- [[Maria's Family]]
+	- [[Maria Family]]
 		- [[Maria's Adoptive Father]] [[Maria's Adoptive Mother]] [[Maria's Father]]
 - ### [[Supporting Characters]]
-	- ### #VII-B [[Junior High School 62 Derana]]
-		- [[Li Na's Circle]]
-			- [[Li Na]] [[Deva]] [[Deay]] [[Zara]]
-		- [[One's Circle]]
-			- [[1]] [[Donat]] [[Yuda]] [[John]]
-		- [[Ratu's Circle]]
-			- [[Ratu]] [[Rava]] [[Jay]] [[Kebo]] [[Apple]] [[Bob]] [[Maya]] [[Wulan]]
-		- [[62's Teachers]]
+	- ### [[Junior High School 62 Derana]]
+		- [[VII-B]]
+			- [[Circle Li'na]]
+				- [[Li Na]] [[Deva]] [[Deay]] [[Zara]]
+			- [[Circle One]]
+				- [[1]] [[Donat]] [[Yuda]] [[John]]
+			- [[Circle Ratu]]
+				- [[Ratu]] [[Rava]] [[Jay]] [[Kebo]] [[Apple]] [[Bob]] [[Maya]] [[Wulan]]
+			- No Circle
+				- [[Ami]] [[Emi]] [[Budi]] [[Joko]] [[Adil]] [[Pita]] [[Tari]]
+		- [[62 Teachers]]
 			- [[Mala]]
-		- No Circle
-			- [[Ami]] [[Emi]] [[Budi]] [[Joko]] [[Adil]] [[Pita]] [[Tari]]
-		- IX-A [[Junior High School 62 Derana]]
+		- [[IX-A]]
 			- [[Martha]]
-- # Pia
-  {{embed ((672a0838-f979-4e01-9f61-255e97aa32ff))}}
-- # [[El]] 
-  {{embed ((672a3227-3cad-43f4-b1bf-7b483ebda769))}}
+- {{embed ((672a0838-f979-4e01-9f61-255e97aa32ff))}}
+- {{embed ((672a3227-3cad-43f4-b1bf-7b483ebda769))}}
+- {{embed ((672a2c66-c4a7-4aa1-a8af-848958774980))}}
+- {{embed ((672a3028-4482-4212-9a95-03c234da7e30))}}
+-
+-

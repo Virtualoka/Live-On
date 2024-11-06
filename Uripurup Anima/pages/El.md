@@ -1,33 +1,32 @@
-filters:: {"characters" false}
-
-- ## Profile
-  id:: 672a3227-3cad-43f4-b1bf-7b483ebda769
+## El #El #[[Main Characters]] #[[Circle El]] #[[El Family]]
+id:: 672a3227-3cad-43f4-b1bf-7b483ebda769
+	- ![El y 256.png](../assets/El_y_256_1730862394099_0.png)
+	- Just graduated from high school, Unemployed not because he couldn't get a job, but by choice. El is the oldest brother, the only man in the El Family
 	- ### Personal
-	  Name                          : Eriel Gray
+	  English Name                  : Eriel Gray
 	  Nickname                      : El
-	  Name (Indonesia)              : Elang Gemilang
-	  Name (Java)                   : ꦌꦭꦁꦒꦼꦩꦶꦭꦁ
-	  Name (Japanese)               : エーリエル (Eriel/Erieru)
-	  Ethicnitiy                    : #Javanese 
-	  Religion                      : #Islam
+	  Indonesian                    : Elang Gemilang
+	  Javanese                      : ꦌꦭꦁꦒꦼꦩꦶꦭꦁ
+	  Japanese Name                 : エーリエル (Eriel/Erieru)
+	  Ethicnitiy                    : [[Javanese]]
+	  Religion                      : [[Islam]]
 	  Hobbies                       : Taking care his little sisters, gardening
-	  Goals & Dreams                : Seeing his three little sisters succeed.
+	  Goals & Dreams                : Seeing his three little sisters succeed
 	- ### Family
-	- Parents:
-		- [[Iro]] (Father)
-		- [[Itra]] (Mother)
-	- Siblings:
-		- [[Aiu]] (Little Sister)
-		- [[Pia]] (Little Sister)
-		- [[Jelly]] (Little Sister)
+	  Father                        : [[Iro]]
+	  Mother                        : [[Itra]]
+	  Siblings:
+	  [[Aiu]] (Little Sister)
+	  [[Pia]] (Little Sister)
+	  [[Jelly]] (Little Sister)
 	- ### Physical Characteristcs
-	  Gender                        : #Male 
+	  Gender                        : [[Male]] 
 	  Height                        : 166 cm
 	  Hair Color                    : bluish black
 	  Eye Color                     :
 	- ### Status
-	  Occupation                    : #Unemployed
+	  Occupation                    : [[Unemployed]]
 	- ### Stats
-	  ■■■■■■■■□□ Strength 8    ■■■■■■■■□□ Intelligence 8  
-	  ■■■■■■■□□□ Good     7    ■■■■■□□□□□ Bad          5  
-	  ■■■■■■■■■□ Charisma 9    ■■■■■■■■□□ Wealth       8
+	  ■■■■■■■■□□ Strength 8         ■■■■■■■■□□ Intelligence 8  
+	  ■■■■■■■□□□ Good     7         ■■■■■□□□□□ Bad          5
+	  ■■■■■■■■■□ Charisma 9         ■■■■■■■■□□ Wealth       8

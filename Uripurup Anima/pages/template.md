@@ -1,18 +1,21 @@
-## Profile
+## [Name] [hastag]
 template:: Character Profile
+	- [Character Image]
+	- [Short Description]
 	- ### Personal
-	  Name                          : 
+	  English Name                  : 
 	  Nickname                      : 
-	  Name (Indonesia)              : 
-	  Name (Java)                   : 
-	  Name (Japanese)               : 
+	  Indonesian                    : 
+	  Javanese                      : 
+	  Japanese Name                 : 
 	  Ethicnitiy                    : 
-	  Religion                      : #Islam
+	  Religion                      : [[Islam]]
 	  Hobbies                       : 
 	  Goals & Dreams                :
 	- ### Family
-	  Parents                       : 
-	  Siblings                      :
+	  Father                        : 
+	  Mother                        : 
+	  Siblings:
 	- ### Physical Characteristcs
 	  Gender                        : 
 	  Height                        : cm
@@ -23,6 +26,6 @@ template:: Character Profile
 	  School                        : 
 	  Class                         :
 	- ### Stats
-	  ■■■■■□□□□□ Strength 5    ■■■■■□□□□□ Intelligence 5  
-	  ■■■■■□□□□□ Good     5    ■■■■■□□□□□ Bad          5  
-	  ■■■■■□□□□□ Charisma 5    ■■■■■□□□□□ Wealth       5
+	  ■■■■■□□□□□ Strength 5         ■■■■■□□□□□ Intelligence 5
+	  ■■■■■□□□□□ Good     5         ■■■■■□□□□□ Bad          5
+	  ■■■■■□□□□□ Charisma 5         ■■■■■□□□□□ Wealth       5
