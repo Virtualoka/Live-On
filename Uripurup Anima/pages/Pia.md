@@ -1,15 +1,15 @@
 ## Profile
 id:: 672a0838-f979-4e01-9f61-255e97aa32ff
 	- ### Personal
-	  ![Pia 256.png](../assets/Pia_256_1730859362764_0.png)
-	  Name (English & Indonesia)    : Maharaina Oktavia Rawiya Izvari
-	  Nickname                      : Pia  
-	  Name (Java)                   : ꦩꦲꦫꦻꦤꦎꦏ꧀ꦠꦮ꦳ꦶꦪꦫꦮꦶꦪꦆꦗ꦳꧀ꦮ꦳ꦫꦶ  
-	  Name (Japanese)               : 怜奈・オクタヴィア イズヴァリ (Reina Oktavia Izvari)  
-	  Ethicnitiy                    : #Javanese  
-	  Religion                      : #Islam  
-	  Hobbies                       : Farming [[El]]'s attention  
-	  Goals & Dreams                : Conquer the World
+		- ![Pia 256.png](../assets/Pia_256_1730859362764_0.png)
+		- Name (English & Indonesia)    : Maharaina Oktavia Rawiya Izvari
+		- Nickname                      : Pia
+		- Name (Java)                   : ꦩꦲꦫꦻꦤꦎꦏ꧀ꦠꦮ꦳ꦶꦪꦫꦮꦶꦪꦆꦗ꦳꧀ꦮ꦳ꦫꦶ
+		- Name (Japanese)               : 怜奈・オクタヴィア イズヴァリ (Reina Oktavia Izvari)
+		- Ethicnitiy                    : #Javanese
+		- Religion                      : #Islam
+		- Hobbies                       : Farming [[El]]'s attention
+		- Goals & Dreams                : Conquer the World
 	- ### Family
 		- Parents:
 			- [[Iro]] (Father)
