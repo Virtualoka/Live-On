@@ -18,7 +18,7 @@ id:: 672b18bf-eb8b-4177-bdc7-6566b3b36f21
 	  Siblings                      : Only child
 	- ### Physical Characteristcs
 	  Gender                        : [[Female]] 
-	  Height                        : cm
+	  Height                        : 165 cm
 	  Hair Color                    : Black 
 	  Eye Color                     : Black
 	- ### Status

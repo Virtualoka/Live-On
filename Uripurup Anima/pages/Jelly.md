@@ -1,4 +1,4 @@
-## Lilly Jelly #Jelly  #[[El Family]]  #[[Circle 🍮 Jelly]]  #[[Main Characters]]
+## Lilly Jelly #Jelly  #[[El Family]]  #[[Circle 🍮 Anin]]  #[[Main Characters]]
 id:: 672a3028-4482-4212-9a95-03c234da7e30
 	- ![Jeli y 256.png](../assets/Jeli_y_256_1730864191774_0.png)
 	- Jelly is quite girl, she rarely talk
@@ -10,8 +10,8 @@ id:: 672a3028-4482-4212-9a95-03c234da7e30
 	  Japanese Name                 : ジェリー (Jeli)
 	  Ethicnitiy                    : [[Javanese]]
 	  Religion                      : [[Islam]]
-	  Hobbies                       : Playing, thinking
-	  Goals & Dreams                : Don't have
+	  Hobbies                       : Playing, Thinking
+	  Goals & Dreams                : Don't Have
 	- ### Family
 	  Father                        : [[Iro]](Deceased)
 	  Mother                        : [[Itra]](Deceased)
