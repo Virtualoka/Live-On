@@ -1,7 +1,7 @@
 ## Profile
 id:: 672a0838-f979-4e01-9f61-255e97aa32ff
-	- ![Pia 256.png](../assets/Pia_256_1730859362764_0.png)
 	- ### Personal
+	  ![Pia 256.png](../assets/Pia_256_1730859362764_0.png)
 	  Name (English & Indonesia)    : Maharaina Oktavia Rawiya Izvari
 	  Nickname                      : Pia  
 	  Name (Java)                   : ꦩꦲꦫꦻꦤꦎꦏ꧀ꦠꦮ꦳ꦶꦪꦫꦮꦶꦪꦆꦗ꦳꧀ꦮ꦳ꦫꦶ  
