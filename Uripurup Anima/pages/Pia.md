@@ -7,7 +7,7 @@ id:: 672a0838-f979-4e01-9f61-255e97aa32ff
 	  Name (Japanese)               : 怜奈・オクタヴィア イズヴァリ (Reina Oktavia Izvari)  
 	  Ethicnitiy                    : #Javanese  
 	  Religion                      : #Islam  
-	  Hobbies                       : Farming [[El]] 's attention  
+	  Hobbies                       : Farming [[El]]'s attention  
 	  Goals & Dreams                : Conquer the World
 	- ### Family
 		- Parents:
