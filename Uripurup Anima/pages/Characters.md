@@ -20,9 +20,13 @@
 			- [[1]] [[Donat]] [[Yuda]] [[John]]
 		- [[Ratu's Circle]]
 			- [[Ratu]] [[Rava]] [[Jay]] [[Kebo]] [[Apple]] [[Bob]] [[Maya]] [[Wulan]]
+		- [[62's Teachers]]
+			- [[Mala]]
 		- No Circle
 			- [[Ami]] [[Emi]] [[Budi]] [[Joko]] [[Adil]] [[Pita]] [[Tari]]
+		- IX-A [[Junior High School 62 Derana]]
+			- [[Martha]]
 - # Pia
   {{embed ((672a0838-f979-4e01-9f61-255e97aa32ff))}}
-- # El
-  {{embed ((672a3227-3cad-43f4-b1bf-7b483ebda769)) }}
+- # [[El]] 
+  {{embed ((672a3227-3cad-43f4-b1bf-7b483ebda769))}}

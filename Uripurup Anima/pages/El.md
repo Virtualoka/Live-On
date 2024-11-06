@@ -1,5 +1,7 @@
-## Profile
-id:: 672a3227-3cad-43f4-b1bf-7b483ebda769
+filters:: {"characters" false}
+
+- ## Profile
+  id:: 672a3227-3cad-43f4-b1bf-7b483ebda769
 	- ### Personal
 	  Name                          : Eriel Gray
 	  Nickname                      : El
