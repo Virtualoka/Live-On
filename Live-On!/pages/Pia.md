@@ -31,6 +31,8 @@ id:: 672a0838-f979-4e01-9f61-255e97aa32ff
 	  ■■■■■■□□□□ Strength 6         ■■■■■■■■■□ Intelligence 9
 	  ■■■■■□□□□□ Good     5         ■■■■■■■■□□ Bad          8
 	  ■■■■■■■■■■ Charisma 10        ■■■■■■■□□□ Wealth       7
+- ## Adittional Information
+	- tes
 - # Appearance
 	-
 - # Personality
