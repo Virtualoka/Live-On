@@ -1,47 +1,69 @@
-## [[Main Characters]]: [[Pia]] [[El]] [[Aiu]] [[Jelly]]
+## [[Main Characters]]
+	- {{embed ((672a0838-f979-4e01-9f61-255e97aa32ff))}}
+	- {{embed ((672c6a3a-735c-4b6c-8617-0ef5baed9814))}}
+	- {{embed ((672a2c66-c4a7-4aa1-a8af-848958774980))}}
+	- [[Jelly]]
 - ## [[Secondary Characters]]
 	- [[Circle 🌻 Pia]]
-		- ### [[Fira]] [[Tristan]] [[Maria]] [[Luna]]
+		- ### [[Fira]]
+		- [[Tristan]]
+		- [[Maria]]
+		- [[Luna]]
 	- [[Circle ❤️ Aiu]]
-		- ### [[Iva]] [[Eli]] [[Senna]]
+		- ### [[Iva]]
+		- [[Eli]]
+		- [[Senna]]
 	- [[Circle 🍮 Anin]]
-		- ### [[Anin]] [[Rain]]
+		- ### [[Anin]]
+		- [[Rain]]
 	- [[Circle 🍭 El]]
-		- ### [[Kriss]] [[Nova]]
+		- ### [[Kriss]]
+		- [[Nova]]
 	- [[El Family]]
-		- [[Iro]](Deceased) [[Itra]](Deceased)
+		- [[Iro]](Deceased)
+		- [[Itra]](Deceased)
 	- [[Weiss Kriss Family]]
-		- [[Iris Edelweiss]] [[Jack]] [[Apple (WK's Servant)]] [[IA II]] [[Kriss's Father]] [[Kriss's Mother]]
+		- [[Iris Edelweiss]]
+		- [[Jack]]
+		- [[Apple (WK's Servant)]]
+		- [[IA II]]
+		- [[Kriss's Father]]
+		- [[Kriss's Mother]]
 	- [[Maria Family]]
-		- [[Maria's Adoptive Father]] [[Maria's Adoptive Mother]] [[Maria's Father]](Deceased)
+		- [[Maria's Adoptive Father]]
+		- [[Maria's Adoptive Mother]]
+		- [[Maria's Father]](Deceased)
 - ### [[Supporting Characters]]
 	- ### [[62 Junior High School Derana]]
 		- [[VII-B]]
 			- [[Circle Li'na]]
-				- [[Li Na]] [[Deva]] [[Deay]] [[Zara]]
+				- [[Li Na]]
+				- [[Deva]]
+				- [[Deay]]
+				- [[Zara]]
 			- [[Circle One]]
-				- [[1]] [[Donat]] [[Yuda]] [[John]]
+				- [[1]]
+				- [[Donat]]
+				- [[Yuda]]
+				- [[John]]
 			- [[Circle Ratu]]
-				- [[Ratu]] [[Rava]] [[Jay]] [[Kebo]] [[Apple]] [[Bob]] [[Maya]] [[Wulan]]
+				- [[Ratu]]
+				- [[Rava]]
+				- [[Jay]]
+				- [[Kebo]]
+				- [[Apple]]
+				- [[Bob]]
+				- [[Maya]]
+				- [[Wulan]]
 			- No Circle
-				- [[Ami]] [[Emi]] [[Budi]] [[Joko]] [[Adil]] [[Pita]] [[Tari]]
+				- [[Ami]]
+				- [[Emi]]
+				- [[Budi]]
+				- [[Joko]]
+				- [[Adil]]
+				- [[Pita]]
+				- [[Tari]]
 		- [[62 Teachers]]
 			- [[Mala]]
 		- [[IX-A]]
 			- [[Martha]]
-- {{embed ((672a0838-f979-4e01-9f61-255e97aa32ff))}}
-- {{embed ((672a3227-3cad-43f4-b1bf-7b483ebda769))}}
-- {{embed ((672a2c66-c4a7-4aa1-a8af-848958774980))}}
-- {{embed ((672a3028-4482-4212-9a95-03c234da7e30))}}
-- {{embed ((672ba379-9efb-4c3c-9a81-c0cccef81bad))}}
-- {{embed ((672ba6e3-f0f2-4c61-b7fe-9e2d4a4a14ac))}}
-- {{embed ((672a2627-1fd0-4045-a7cd-d296a055334e))}}
-- {{embed ((672b18bf-eb8b-4177-bdc7-6566b3b36f21))}}
-- {{embed ((672b1e58-7129-486d-b736-6645d8a1978c))}}
-- {{embed ((672ac137-b539-4dd9-a940-d3ab02e2bbde))}}
-- {{embed ((672b236f-e0ca-45ba-a820-33bad96592a3))}}
-- {{embed ((672b15ed-8c2c-4ac7-bf33-45d5746f2476))}}
-- {{embed ((672b2373-b214-439f-a83a-c4cd80eab85f))}}
-- {{embed ((672ad7a1-e4a7-4ce9-a5df-ac22f5bff24b))}}
--
--

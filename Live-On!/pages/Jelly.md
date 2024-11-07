@@ -21,7 +21,7 @@ id:: 672a3028-4482-4212-9a95-03c234da7e30
 	  [[Pia]] (Sister)
 	- ### Physical Characteristcs
 	  Gender                        : [[Female]]
-	  Height                        : 60.5 cm, 121 cm (real mode)
+	  Height                        : 60.5 cm (1'12"), 121 cm (3'12") (real mode)
 	  Hair Color                    : 
 	  Eye Color                     :
 	- ### Status

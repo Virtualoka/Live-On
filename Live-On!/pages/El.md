@@ -1,5 +1,8 @@
-## Eriel Gray #El  #[[El Family]]  #[[Circle 🍭 El]]  #[[Main Characters]]
-id:: 672a3227-3cad-43f4-b1bf-7b483ebda769
+- #[[El Family]]  #[[Circle 🍭 El]]  #[[Main Characters]]
+- [[El]]
+  id:: 672c6a3a-735c-4b6c-8617-0ef5baed9814
+	- # Eriel Gray
+	  id:: 672a3227-3cad-43f4-b1bf-7b483ebda769
 	- ![El y 256.png](../assets/El_y_256_1730862394099_0.png)
 	- Just graduated from high school, Unemployed not because he couldn't get a job, but by choice. El is the oldest brother, the only man in the El Family
 	- ### Personal
@@ -21,7 +24,7 @@ id:: 672a3227-3cad-43f4-b1bf-7b483ebda769
 	  [[Jelly]] (Little Sister)
 	- ### Physical Characteristcs
 	  Gender                        : [[Male]] 
-	  Height                        : 166 cm
+	  Height                        : 166 cm (5'5")
 	  Hair Color                    : Bluish Black
 	  Eye Color                     :
 	- ### Status

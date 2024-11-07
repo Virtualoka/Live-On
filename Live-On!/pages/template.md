@@ -1,7 +1,9 @@
 template:: Character Profile
 template-including-parent:: false
 
-	- ## Name #Hashtag  #Hashtag  #Hashtag
+	- #Hashtag
+	- [[NameID]]
+		- # Name
 		- [Character Image]
 		- asd
 		- ### Personal
@@ -31,6 +33,8 @@ template-including-parent:: false
 		  ■■■■■□□□□□ Strength 5         ■■■■■□□□□□ Intelligence 5
 		  ■■■■■□□□□□ Good     5         ■■■■■□□□□□ Bad          5
 		  ■■■■■□□□□□ Charisma 5         ■■■■■□□□□□ Wealth       5
+	- ## Adittional Information
+		- tes
 	- # Appearance
 		- asd
 	- # Personality
@@ -40,6 +44,8 @@ template-including-parent:: false
 - ## Temporary Template
   template:: Character Profile Update
   template-including-parent:: false
+	- ## Adittional Information
+		- tes
 	- # Appearance
 		- asd
 	- # Personality

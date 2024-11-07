@@ -1,5 +1,7 @@
-## Aiu #Aiu  #[[El Family]]  #[[Circle ❤️ Aiu]]  #[[Main Characters]]
-id:: 672a2c66-c4a7-4aa1-a8af-848958774980
+- #[[El Family]]  #[[Circle ❤️ Aiu]]  #[[Main Characters]]
+- [[Aiu]]
+  id:: 672a2c66-c4a7-4aa1-a8af-848958774980
+	- # Aiu
 	- ![ayu y 256.png](../assets/ayu_y_256_1730863419607_0.png){:height 264, :width 256}
 	- Pencak Silat World Champion while still in junior high school.
 	- ### Personal
@@ -21,7 +23,7 @@ id:: 672a2c66-c4a7-4aa1-a8af-848958774980
 	  [[Jelly]] (Little Sister)
 	- ### Physical Characteristcs
 	  Gender                        : [[Female]] 
-	  Height                        : 152.5 cm
+	  Height                        : 152.5 cm (5'0")
 	  Hair Color                    : Brown
 	  Eye Color                     :
 	- ### Status
