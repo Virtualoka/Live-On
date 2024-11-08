@@ -17,15 +17,15 @@
 		- Father                        : [[Iro]] (Deceased)
 		- Mother                        : [[Itra]] (Deceased)
 		- Sibling(s):
-			- [[EL]](El) (Brother)
-			- [[Aiu]](Aiu) (Sister)
-			- [[Jelly]](Jelly) (Little Sister)
+			- [[EL]](El.md) (Brother)
+			- [[Aiu]](Aiu.md) (Sister)
+			- [[Jelly]](Jelly.md) (Little Sister)
 	- ### [[Circle 🌻 Pia]]
 		- [[Pia]] Leader
-		- [[Fira]](Fira)
-		- [[Maria]](Maria)
-		- [[Tristan]](Tristan)
-		- [[Luna]](Luna)
+		- [[Fira]](Fira.md)
+		- [[Maria]](Maria.md)
+		- [[Tristan]](Tristan.md)
+		- [[Luna]](Luna.md)
 	- ### Physical Characteristcs
 	  **Age**                              : 1X
 	  **Height**                           : 148 cm (4'10")
