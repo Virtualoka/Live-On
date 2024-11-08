@@ -27,53 +27,71 @@
 		- [[Tristan]]
 		- [[Luna]]
 	- ### Physical Characteristcs
-	  Age                              : 1X
-	  Height                           : 148 cm (4'10")
+	  **Age**                              : 1X
+	  **Height**                           : 148 cm (4'10")
 	- ### Status
-	  Occupation                       : Professional Little Sister, [[Student]]
-	  School                           : [[62 Junior High School Derana]]
-	  Class                            : [[VII-B]]
+	  **Occupation**                       : Professional Little Sister, [[Student]]
+	  **School**                           : [[62 Junior High School Derana]]
+	  **Class**                            : [[VII-B]]
 	- ### Stats
-	  ■■■■■■□□□□ 6  Strength
-	  ■■■■■■■■■□ 9  Intelligence
-	  ■■■■■□□□□□ 5  Good
-	  ■■■■■■■■□□ 8  Bad
-	  ■■■■■■■■■■ 10 Charisma
-	  ■■■■■■■□□□ 7  Wealth
+	  ■■■■■■□□□□ **6  Strength**
+	  ■■■■■■■■■□ **9  Intelligence**
+	  ■■■■■□□□□□ **5  Good**
+	  ■■■■■■■■□□ **8  Bad**
+	  ■■■■■■■■■■ **10 Charisma**
+	  ■■■■■■■□□□ **7  Wealth**
 - ## Adittional Information
-	- ### Physical Characteristics
-	  Gender                           : [[Female]]
-	  Weight                           : XX kg
-	  Hair Color                       : Golden yellow
-	  Eye Color                        : Purple
+	- ### General
+	  **Gender**                           : [[Female]]
+	  **Date of Birth**                    : August
+	  **Age**                              : 1X
+	  **Weight**                           : XX kg
+	  **Hair Color**                       : Golden yellow # f9f97b
+	  **Eye Color**                        : Purple
+	  **Blood Type**                       :
 	- ### Alias(es)
-		- Master ([[Fira]])
-		- Indonesian
+		- **Master** ([[Fira]])
+		- **Indonesian**
 			- Ka Pia ([[Jelly]])
-		- Japanese
+		- **Japanese**
 			- ピア (Pia)
 	- ### Relationships
-		- Family
+		- **Family**
 			- [[EL]]
 			  El is the most important person in Pia's life. Even though she doesn't seem to show it, Pia loves his brother so much. She can't live without him.
 			- [[Aiu]]
 			  Since childhood, Pia and Aiu have never been very close. They always envy of each other. Despite being so, since Aiu is pencak silat world champion, Pia still treat her with respect.
 			- [[Jelly]]
-		- Cirlce
+		- **Cirlce**
 			- [[Fira]]
 			  ![pia ginar 512.png](../assets/pia_ginar_512_1730992231092_0.png) 
 			  After realizing pia's kindness and sincerity. Fira began to admire Pia and start calling her "Master".
 			- [[Maria]]
 			- [[Sari]]
 			- [[Luna]]
-		- Good Friends
+		- **Imaginary Friends**
+			- [[Sosis-Man]]
+		- **Good Friends**
 			- [[Li Na]]
 			  Lina and Pia are friend since elementary school.
-		- Friends
+		- **Friends**
 			- [[1]]
 			- [[Donat]]
-	- ### Primary Typeface : Ubuntu Sans
-	- ### Supporting Typeface : Acherus Grotesque ($), open alternatives DejaVu Sans
+	- ### Likes
+		- **His Brother**
+		  She likes anything related with her brother. She like food cooked by him.
+		- **Beautiful Things**
+		- **Reading**
+		  Pia like to read real world book with knowledge that usually read by adult.
+	- ### Dislikes
+		- **Stupid Person**
+		- **School, School Book.**
+	- ### Primary Typeface      : Ubuntu Sans
+		- **Supporting Typeface**    : Acherus Grotesque ($), open alternatives Apel
+	- ### Debut
+		- Anima                  : [[Ep001 - Wash the Dish]]
+		- Rita                   : [[Rita001 - Poor]]
+	- ### Voice Actor(s)        : Pia
 - # Appearance
 	- asd
 - # Personality
@@ -81,17 +99,20 @@
 - # Abilities and Skills
 	- ## English
 	  Pia speak english fluently
-	- ## Superior Intelligence
+	- ## Superior Intelligence and Emotional Intelligence
 	  As a child, Pia was small weak and lacked the confidence she now radiates. Little Pia did not really have a friend, she found solace and strength in her learning. At home, she frequently questioned her brother, who, along with their mother, patiently supported her studies.
 	  
-	  Even though Pia is still in middle school, she is smarter than [[El]] and [[Aiu]] her older siblings.
-	- ## Athletic Physical and Strength
+	  Even though Pia is still in junior high school, she is smarter than [[El]] and [[Aiu]] her older siblings.
+	- ## Athletic Physique and Strength
 	  Pia has a naturally gifted athletic physique. She excels at sports and possesses great endurance and stamina.
 - # Background
   Pia born with no tears, she was weak and frail.
   
   Little Pia was quiet child and unsure of herself. a trait entirely absent in her present self.
+	- ## Etymology
+		- Maharaina means queen
 - # Trivia
 	- She called herself "Pia" because, as a child, she couldn't spell her own name. Anyone who spelled it correctly risked her tears and she will get sick.
+	- Although she's extroverted and has high social skill and status, she sometimes enjoys being alone, thinking deeply, and daydreaming.
 - # Director Notes
 	- Unlike many main character that makes funny of their character by being not able to speak english. Pia do the opposite, she will be funny because she fluently speak english.

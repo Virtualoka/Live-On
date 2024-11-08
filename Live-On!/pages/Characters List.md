@@ -2,7 +2,7 @@
 title:: Characters List
 - ## [[Secondary Characters]]
 	- [[Circle 🌻 Pia]]
-		- ### [[Fira]] [[Tristan]] [[Maria]] [[Luna]]
+		- ### [[Fira]] [[Tristan]] [[Maria]] [[Luna]] [[Sosis-Man]]
 	- [[Circle ❤️ Aiu]]
 		- ### [[Iva]] [[Eli]] [[Senna]]
 	- [[Circle 🍮 Anin]]
@@ -31,6 +31,5 @@ title:: Characters List
 		- [[IX-A]]
 			- [[Martha]]
 - {{embed ((672a0838-f979-4e01-9f61-255e97aa32ff))}}
-- {{embed ((672a3227-3cad-43f4-b1bf-7b483ebda769))}}
 -
 -

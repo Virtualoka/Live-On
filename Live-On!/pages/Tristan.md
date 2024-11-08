@@ -10,7 +10,7 @@ id:: 672b18bf-eb8b-4177-bdc7-6566b3b36f21
 	  Japanese Name                 : 聖子 黒髪姫 空星内親王  (Seiko-no-kurokamihime Sorahoshi Naishinnō )
 	  Ethicnitiy                    : [[Javanese]] 
 	  Religion                      : [[Islam]]
-	  Hobbies                       : Traveling, Photography
+	  Hobbies                       : Traveling, Photography, Doll Making
 	  Goals & Dreams                :
 	- ### Relative(s)
 	  Father                        : 
