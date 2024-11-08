@@ -14,18 +14,18 @@
 		- Hobbies                       : Farming [[El]]'s attention
 		- Goals & Dreams                : Conquer the World
 	- ### Relative(s)
-		- Father                        : [[Iro]](Deceased)
-		- Mother                        : [[Itra]](Deceased)
+		- Father                        : [[Iro]] (Deceased)
+		- Mother                        : [[Itra]] (Deceased)
 		- Sibling(s):
-			- [[EL]] (Brother)
-			- [[Aiu]] (Sister)
-			- [[Jelly]] (Little Sister)
+			- [[EL]](El) (Brother)
+			- [[Aiu]](Aiu) (Sister)
+			- [[Jelly]](Jelly) (Little Sister)
 	- ### [[Circle 🌻 Pia]]
 		- [[Pia]] Leader
-		- [[Fira]]
-		- [[Maria]]
-		- [[Tristan]]
-		- [[Luna]]
+		- [[Fira]](Fira)
+		- [[Maria]](Maria)
+		- [[Tristan]](Tristan)
+		- [[Luna]](Luna)
 	- ### Physical Characteristcs
 	  **Age**                              : 1X
 	  **Height**                           : 148 cm (4'10")
