@@ -67,8 +67,11 @@
 			  ![pia ginar 512.png](../assets/pia_ginar_512_1730992231092_0.png) 
 			  After realizing pia's kindness and sincerity. Fira began to admire Pia and start calling her "Master". Pia loves playing with Fira; she values her sincerity and loyalty. She also admires Fira for her intelligence and finds her cute and beautiful, especially with her dark skin.
 			- [[Maria]]
+			  Pia has fun teasing Gemar.
 			- [[Sari]]
+			  Together they love to travels around the world.
 			- [[Luna]]
+				- Luna has known Pia the longest, although they don't seem not particularly close. Pia has friends with her since kindergarten.
 		- **Imaginary Friends**
 			- [[Sosis-Man]]
 		- **Good Friends**
