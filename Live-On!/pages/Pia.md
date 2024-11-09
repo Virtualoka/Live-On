@@ -34,11 +34,11 @@
 	  **School**                           : [[62 Junior High School Derana]]
 	  **Class**                            : [[VII-B]]
 	- ### Stats
-	  ■■■■■■□□□□ **6  Strength**
-	  ■■■■■■■■■□ **9  Intelligence**
-	  ■■■■■□□□□□ **5  Good**
-	  ■■■■■■■■□□ **8  Bad**
-	  ■■■■■■■■■■ **10 Charisma**
+	  ■■■■■■□□□□ **6  Strength**  
+	  ■■■■■■■■■□ **9  Intelligence**  
+	  ■■■■■□□□□□ **5  Good**  
+	  ■■■■■■■■□□ **8  Bad**  
+	  ■■■■■■■■■■ **10 Charisma**  
 	  ■■■■■■■□□□ **7  Wealth**
 - ## Adittional Information
 	- ### General
@@ -86,8 +86,13 @@
 	- ### Dislikes
 		- **Stupid Person**
 		- **School, School Book.**
+	- ### Language
+		- Indonesia
+		- Javanese
+		- English (Fluent)
+		- Arabic (Read Only)
 	- ### Primary Typeface      : Ubuntu Sans
-		- **Supporting Typeface**    : Acherus Grotesque ($), open alternatives Apel
+		- **Supporting Typeface**    : Acherus Grotesque ($), Apel (Open Alternative)
 	- ### Debut
 		- Anima                  : [[Ep001 - Wash the Dish]]
 		- Rita                   : [[Rita001 - Poor]]
