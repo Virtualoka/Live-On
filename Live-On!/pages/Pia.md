@@ -20,12 +20,13 @@
 			- [[EL]](El.md) (Brother)
 			- [[Aiu]](Aiu.md) (Sister)
 			- [[Jelly]](Jelly.md) (Little Sister)
-	- ### [[Circle 🌻 Pia]]
-		- [[Pia]] Leader
-		- [[Fira]](Fira.md)
-		- [[Maria]](Maria.md)
-		- [[Tristan]](Tristan.md)
-		- [[Luna]](Luna.md)
+	- ### Affliations
+		- ### [[Circle 🌻 Pia]]
+			- [[Pia]] Leader
+			- [[Fira]](Fira.md)
+			- [[Maria]](Maria.md)
+			- [[Tristan]](Tristan.md)
+			- [[Luna]](Luna.md)
 	- ### Physical Characteristcs
 	  **Age**                              : 1X
 	  **Height**                           : 148 cm (4'10")
@@ -75,6 +76,7 @@
 				- Luna has known Pia the longest, although they don't seem not particularly close. Pia has friends with her since kindergarten.
 		- **Imaginary Friends**
 			- [[Sosis-Man]]
+			  Sosis-Man is old wise character
 		- **Good Friends**
 			- [[Li Na]]
 			  Lina and Pia are friend since elementary school.
@@ -102,9 +104,10 @@
 		- Rita                   : [[Rita001 - Poor]]
 	- ### Voice Actor(s)        : Pia
 - # Appearance
-	- asd
+	- Pia deliberately downplays her attractiveness, sometimes acting and behaving in a less intelligent manner.  Despite her efforts to avoid attention for her beauty, but it seems to shines through anyway.
+	- She is strong and tall. She is the 4th tallest in her class.
 - # Personality
-	- asd
+  Pia, once weak and frail little girl, has blossomed into a beautiful and intelligent girl.
 - # Abilities and Skills
 	- ## English
 	  Pia speak english fluently
@@ -115,11 +118,11 @@
 	- ## Athletic Physique and Strength
 	  Pia has a naturally gifted athletic physique. She excels at sports and possesses great endurance and stamina.
 - # Background
-  Pia born with no tears, she was weak and frail.
-  
-  Little Pia was quiet child and unsure of herself. a trait entirely absent in her present self.
 	- ## Etymology
 		- Maharaina means queen
+	- Pia, once weak and frail, has blossomed into a beautiful and intelligent young woman.
+- # Story
+	- asd
 - # Trivia
 	- She called herself "Pia" because, as a child, she couldn't spell her own name. Anyone who spelled it correctly risked her tears and she will get sick.
 	- Although she's extroverted and has high social skill and status, she sometimes enjoys being alone, thinking deeply, and daydreaming.

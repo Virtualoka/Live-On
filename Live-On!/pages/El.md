@@ -2,8 +2,8 @@
 - [[El]]
   id:: 672c6a3a-735c-4b6c-8617-0ef5baed9814
 	- # Eriel Gray
-	- ![El y 256.png](../assets/El_y_256_1730862394099_0.png)
-	- Just graduated from high school, Unemployed not because he couldn't get a job, but by choice. El is the oldest brother, the only man in the El Family
+		- ![El y 256.png](../assets/El_y_256_1730862394099_0.png)
+		- Just graduated from high school, Unemployed not because he couldn't get a job, but by choice. El is the oldest brother, the only man in the El Family
 	- ### Personal
 	  English Name                  : Eriel Gray
 	  Nickname                      : El
