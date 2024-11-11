@@ -62,6 +62,7 @@
 			- [[Aiu]]
 			  Since childhood, Pia and Aiu have never been very close. They always envy of each other. Despite being so, since Aiu is pencak silat world champion, Pia still treat her with respect.
 			- [[Jelly]]
+			  Pia's relationship with Jelly is vastly different from her rivalry with Aiu.  Pia treats Jelly like a beloved little sister, finding her to be utterly adorable.
 		- **Cirlce**
 			- [[Fira]]
 			  ![pia ginar 512.png](../assets/pia_ginar_512_1730992231092_0.png) 
