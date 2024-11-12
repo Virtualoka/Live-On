@@ -42,6 +42,7 @@
 	  ■■■■■■■■■■ **10 Charisma**  
 	  ■■■■■■■□□□ **7  Wealth**
 - ## Adittional Information
+	- asd
 	- ### General
 	  **Gender**                           : [[Female]]
 	  **Date of Birth**                    : August
@@ -67,7 +68,7 @@
 		- **Cirlce**
 			- [[Fira]]
 			  ![pia ginar 512.png](../assets/pia_ginar_512_1730992231092_0.png) 
-			  After realizing pia's kindness and sincerity. Fira began to admire Pia and start calling her "Master". Pia loves playing with Fira; she values her sincerity and loyalty. She also admires Fira for her intelligence and finds her cute and beautiful, especially with her dark skin.
+			  After realizing pia's kindness and sincerity. Fira began to admire Pia and start calling her "Master". Pia loves playing with Fira; she values her sincerity and loyalty. She also admires Fira for her intelligence and finds her beautiful and adorable, especially with her dark skin.
 			- [[Maria]]
 			  Pia has fun teasing Gemar.
 			- [[Sari]]
@@ -122,6 +123,8 @@
 		- Maharaina means queen
 	- Pia, once weak and frail, has blossomed into a beautiful and intelligent young woman.
 - # Story
+	- asd
+- # Quote
 	- asd
 - # Trivia
 	- She called herself "Pia" because, as a child, she couldn't spell her own name. Anyone who spelled it correctly risked her tears and she will get sick.
