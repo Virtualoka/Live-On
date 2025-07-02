@@ -11,7 +11,7 @@ Support this project
 [Trakteer](https://https://trakteer.id/White) 🇮🇩
 
 # Pia
-![Uripurup](https://github.com/Virtualoka/assets/blob/4a062dbbb104067be7b76048f1eb3afd2f50a998/Char/!%20Pia/Pi%20256.png)
+![Pia](Live-On!/assets/Pia_256_1730859362764_0.png)
 
 Name (English & Indonesia): Maharaina Oktavia Rawiya Izvari
 

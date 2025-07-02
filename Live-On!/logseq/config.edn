@@ -299,7 +299,7 @@
  ;;  :charge-range    600}   ; Default value: 600
 
  ;; Favorites to list on the left sidebar
- :favorites ["Fira" "Pia" "Characters List" "Characters"]
+ :favorites ["pia" "67a724b4-e53b-4391-9c52-495fa92f3592" "fira" "characters list" "characters"]
 
  ;; Set flashcards interval.
  ;; Expected value:

@@ -2,7 +2,9 @@
 - [[Pia]]
   id:: 672a0838-f979-4e01-9f61-255e97aa32ff
 	- # Pia Izvari
+	  id:: 67a4fe66-4d1d-4f22-9e14-d026febd6424
 		- ![Pia 256.png](../assets/Pia_256_1730859362764_0.png)
+		  id:: 67a4fe66-ea7a-4287-a0b6-e1bcf04022ee
 		- She may look stupid and always act crazy, but it's actually just a mask she deliberately wears. Pia is insanely smart girl. She can smile to make others happy or suffer.
 	- ### Personal
 		- Name (English & Indonesia)    : Maharaina Oktavia Rawiya Izvari
@@ -65,7 +67,7 @@
 			  Since childhood, Pia and Aiu have never been very close. They always envy of each other. Despite being so, since Aiu is pencak silat world champion, Pia still treat her with respect.
 			- [[Jelly]]
 			  Pia's relationship with Jelly is vastly different from her rivalry with Aiu.  Pia treats Jelly like a beloved little sister, finding her to be utterly adorable.
-		- **Cirlce**
+		- **Circle**
 			- [[Fira]]
 			  ![pia ginar 512.png](../assets/pia_ginar_512_1730992231092_0.png) 
 			  After realizing pia's kindness and sincerity. Fira began to admire Pia and start calling her "Master". Pia loves playing with Fira; she values her sincerity and loyalty. She also admires Fira for her intelligence and finds her beautiful and adorable, especially with her dark skin.
@@ -106,18 +108,18 @@
 	- ### Voice Actor(s)        : Pia
 - # Appearance
 	- Pia deliberately downplays her attractiveness, sometimes acting and behaving in a less intelligent manner.  Despite her efforts to avoid attention for her beauty, but it seems to shines through anyway.
-	- She is strong and tall. She is the 4th tallest in her class.
+	- She is strong and tall. She is the 4th tallest in her class
 - # Personality
-  Pia, once weak and frail little girl, has blossomed into a beautiful and intelligent girl.
+  Pia, once weak and frail little girl, has blossomed into a beautiful and intelligent girl
 - # Abilities and Skills
 	- ## English
-	  Pia speak english fluently
+	  Pia able to speak english fluently since grade 4
 	- ## Superior Intelligence and Emotional Intelligence
-	  As a child, Pia was small weak and lacked the confidence she now radiates. Little Pia did not really have a friend, she found solace and strength in her learning. At home, she frequently questioned her brother, who, along with their mother, patiently supported her studies.
+	  As a child, Pia was small weak and lacked the confidence she now radiates. Little Pia did not really have a friend, she found solace and strength in her learning. At home, she frequently questioned her brother, who, along with their mother, patiently supported her studies
 	  
-	  Even though Pia is still in junior high school, she is smarter than [[El]] and [[Aiu]] her older siblings.
+	  Even though Pia is still in junior high school, she is smarter than [[El]] and [[Aiu]] her older siblings
 	- ## Athletic Physique and Strength
-	  Pia has a naturally gifted athletic physique. She excels at sports and possesses great endurance and stamina.
+	  Pia has a naturally gifted athletic physique. She excels at sports and possesses great endurance and stamina
 - # Background
 	- ## Etymology
 		- Maharaina means queen

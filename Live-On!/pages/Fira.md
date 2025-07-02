@@ -2,6 +2,7 @@
   id:: 672a2627-1fd0-4045-a7cd-d296a055334e
 - [[[Fira]]
 	- # Fira Morrigan
+	  id:: 67a4fe65-f1c8-46a7-a994-7436d3ac4923
 		- ![ginar 256.png](../assets/ginar_256_1730876675085_0.png)
 		- Fira is troublesome girl, she likes to smoke and sometimes steal
 	- ### Personal
