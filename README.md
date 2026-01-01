@@ -1,10 +1,14 @@
-# Uripurup
+# live-ON!
 ![Uripurup](https://github.com/Virtualoka/assets/blob/bcfcd945dfcfdf891766a762c492997949603341/Logo/Uripurup%20title.png)
-Uripurup is FREE and open anima project from Indonesia, created by [White Heart](https://github.com/micheliaHEART) and published by [Virtualoka](https://github.com/Virtualoka).
+live-ON! is FREE and open anima project from Indonesia, created by [White Heart](https://github.com/micheliaHEART) and published by [Virtualoka](https://github.com/Virtualoka).
 
 Graphics assets, illustrations, and animations are released under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Unlike traditional animation projects, this free and open anima project allows for study, sharing, and reproduction, even for commercial purposes, as long as you give appropriate credit to White Heart @micheliaHEART.
 
-The series will officialy released in three language. Indonesian, English and Japanese.
+The series will officialy be released in three language: Indonesian, English and Japanese. the Indonesian version will be called **Uripurup**
+
+This project isn’t translated into two other languages, it was intentionally made in three languages by the same creator right from the start.
+
+
 
 Support this project  
 [Ko-fi](https://https://ko-fi,com/) link disabled  
