@@ -1,0 +1,14 @@
+{
+  "project": {
+    "titles": {
+      "indonesian": "Uripurup",
+      "english": "live-ON!",
+      "japanese": "live-ON!"
+    },
+    "release_languages": ["Indonesian", "English", "Japanese"],
+    "title_note": "The project is released under three title variants depending on the language market. English and Japanese use the same title 'live-ON!', while the Indonesian version uses 'Uripurup'."
+	"release_formats": [
+      {
+        "primary": "Anima",
+        "description": "Main release format – anima (Indonesian-original animated series, likely 2D or hybrid style, episodic or short-season format). 'Anima' is the project's custom term for animation, positioning it as Indonesia's equivalent cultural medium to cartoon and anime."
+      },
