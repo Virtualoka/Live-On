@@ -70,8 +70,10 @@ Fira has quite complicated relationship with her parents. They are bad parents, 
 
 The writing is poorly machine translated. Rewrite it manually.
 
+Change copyright information and remove 'All rights reserved.' from the title card
+
 # License
-Copyright © 2020-2024 [White Heart](https://github.com/micheliaHEART) [@micheliaHEART](https://x.com/micheliaHEART)
+Copyright © 2020-2025 [White Heart](https://github.com/micheliaHEART) [@micheliaHEART](https://x.com/micheliaHEART)
 
 Uripurup is licensed under a
 [Creative Commons Attribution 4.0 International License][cc-by].
