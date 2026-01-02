@@ -1,0 +1,45 @@
+{
+  "character_id": "SARI_0034",
+  "type": "secondary",
+  "indonesia_name": "Apsari Tribhuwana Wijayatunggadewi",
+  "indonesia_nicknames": ["Sari"],
+  "javanese_script": "???????????????????????????",
+  "english_name": "Seraphine Tristanetta Wutheringleighfieldcastleford",
+  "english_nicknames": ["Tristan"],
+  "japan_name": "聖子 黒髪姫 空星内親王",
+  "japan_nicknames": ["Seiko"],
+  "gender": "female",
+  "height_cm": 165,
+  "birth_date": "undisclosed",
+  "school": {
+    "class": "VII-B",
+    "school_name": "SMPN 62 Kota Derana"
+  },
+  "religion": "Islam",
+  "ethnicity": "Central Java",
+  "hobbies": ["traveling", "photography"],
+  "aspiration": "TBD",
+  "affiliation": "Circle Pia",
+  "background": {
+    "origin": "simple village girl from Central Java",
+    "family": {
+      "parents": "farmers and livestock breeders",
+      "grandmother": "lives alone in Kota Derana, East Java"
+    },
+    "life_decision": "After graduating elementary school, moved to Kota Derana to live with grandmother and attend junior high school there, since neither parents nor grandmother could relocate.",
+    "origin_event": {
+      "age": "kelas 6 SD (around 12 years old)",
+      "description": "While walking through rice fields alone at midnight, witnessed a very bright meteor falling nearby. After intense white light, suddenly gained the ability to fly at high speed. No clear memory of exact moment of acquisition."
+    },
+    "post_power_life": "Frequently travels around the world in minutes using flight ability. Developed strong interest in photography using smartphone to capture global journeys.",
+    "power_summary": "Superhuman flight at very high speed (able to travel between countries in minutes)"
+  },
+  "traits": {
+    "power": 8,
+    "intelligence": 5,
+    "goodness": 5,
+    "evil": 4,
+    "charisma": 6,
+    "wealth": 6
+  },
+}
